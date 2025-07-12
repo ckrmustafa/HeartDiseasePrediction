@@ -83,9 +83,9 @@ Bu Shiny uygulamasını kendi bilgisayarınızda çalıştırmak için R ve RStu
 
 R ve RStudio'yu Yükleyin:
 
-R'ı buradan indirin ve kurun.
-
-RStudio'yu buradan indirin ve kurun.
+**R ve RStudio'yu Yükleyin:**
+    * R'ı [buradan](https://cran.r-project.org/) indirin ve kurun.
+    * RStudio'yu [buradan](https://posit.co/download/rstudio-desktop/) indirin ve kurun.
 
 Gerekli R Paketlerini Yükleyin:
 Uygulama çalışmadan önce bazı R paketlerinin yüklenmesi gerekir. RStudio'yu açın ve Konsol'a aşağıdaki komutları yapıştırın ve çalıştırın:
